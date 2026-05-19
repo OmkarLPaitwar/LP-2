@@ -1,1 +1,1 @@
-print("This is Google App engine Practicle.")
+print("This is Google App engine Practical.")
